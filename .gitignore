@@ -1,0 +1,16 @@
+# Carpeta del sistema
+.idea/
+.DS_Store
+
+# Android project ignores
+android_project/build/
+android_project/.gradle/
+android_project/local.properties
+android_project/app/build/
+
+# Node/NPM (por si acaso levantas el servidor con npm)
+node_modules/
+npm-debug.log
+
+# Ocultar la carpeta temporal o generada si existe
+.gemini/
